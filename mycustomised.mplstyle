@@ -1,0 +1,36 @@
+# Axes labels
+axes.titlesize : 16
+axes.labelsize : 28
+
+# Tick related 
+xtick.direction : in
+ytick.direction : in
+xtick.top       : True
+ytick.right     : True
+
+xtick.minor.visible : True
+ytick.minor.visible : True
+
+xtick.major.size    : 10
+xtick.minor.size    : 5
+ytick.major.size    : 10
+ytick.minor.size    : 5
+
+xtick.labelsize : 20
+ytick.labelsize : 20
+
+
+ytick.alignment: center_baseline
+
+# LaTeX
+text.usetex: True
+
+# Font
+font.family: sans-serif
+
+# Save Figure
+savefig.bbox : tight
+savefig.facecolor: white        # figure face color when saving
+
+# Legend related
+legend.fontsize : 22
